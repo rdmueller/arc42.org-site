@@ -14,7 +14,7 @@ feature_row1:
   - image_path: /images/arc42-by-example-cover.png
     alt: "arc42 by Example"
     title: "Six Real-World Systems..."
-    excerpt: 'The architecture of real systems, documented with the arc42 template. Helps you jumpstart your own documentation. Written by Gernot Starke, Michael Simons and Stefan Zörner.'
+    excerpt: 'The architecture of real systems, documented with the arc42 template. Helps you jumpstart your own documentation. Written by Gernot Starke, Ralf D. Müller, Michael Simons and Stefan Zörner.'
     url: "https://leanpub.com/arc42byexample"
     btn_label: "see the book"
     btn_class: "btn--inverse"
